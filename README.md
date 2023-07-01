@@ -4,4 +4,4 @@ Dependency: react-icons
 
 To run the project: "npm run start"
 
-![alt text](/public/react-stars?raw=true "Screenshot")
+![alt text](/public/react-stars.png?raw=true "Screenshot")
